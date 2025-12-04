@@ -1,4 +1,4 @@
-<h1 align="center"> To-Do List Básico em Python (CLI) </h1>
+<h1 align="center"> To-Do List Básico em Python </h1>
 
 <p align="center">
   <a href="#-contribuintes">Contribuintes</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
