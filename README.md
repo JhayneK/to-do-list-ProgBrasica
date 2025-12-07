@@ -12,6 +12,7 @@
 
 ### 👥 Contribuintes:
 - Jhayne Henemam - [perfil](https://github.com/JhayneK)
+- Samara Montenegro - [perfil](https://github.com/saminha)
 
 ---
 
@@ -65,6 +66,31 @@ O programa permite:
 
 ---
 
+### 🧠 Melhorias Futuras
+
+Ideias de melhorias:
+
+- 💻 **Persistência dos dados**
+
+Atualmente as tarefas são perdidas ao encerrar o programa. Uma melhoria importante é permitir salvar e carregar os dados automaticamente usando arquivos JSON, CSV ou TXT, garantindo que as tarefas permaneçam registradas.
+
+- 📄 **Edição de tarefas**
+
+Implementar a opção de editar uma tarefa já existente, permitindo ajustar sua descrição, prioridade ou outras informações sem precisar removê-la e recriá-la.
+
+- 📍 **Adicionar categorias e prioridades**
+
+Incluir categorias como "Trabalho", "Estudos" e "Pessoal", além de prioridades (alta, média, baixa). Isso tornará a organização das tarefas mais clara e facilitará a visualização.
+
+- ✅ **Confirmar antes de excluir**
+
+Adicionar uma mensagem de confirmação antes de remover uma tarefa, evitando exclusões acidentais e garantindo mais segurança no uso.
+
+- 🧮 **Interface gráfica simples (GUI)**
+
+Criar uma versão opcional com interface visual usando Tkinter, permitindo adicionar, listar e marcar tarefas de uma forma mais intuitiva e acessível para todos os usuários.
+
+---
 ## 🧠 Lógica do Programa
 
 As tarefas são armazenadas em uma lista chamada `tarefas`, onde **cada tarefa é um dicionário** com a seguinte estrutura:
